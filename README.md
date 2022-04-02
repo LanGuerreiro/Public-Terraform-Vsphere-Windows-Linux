@@ -19,7 +19,7 @@ Through variable is possible set:
 
 Please watch my demonstration: 
 
-- Full demonstration:https://youtu.be/-vMayVsNjNg
+- Full demonstration: https://youtu.be/-vMayVsNjNg
 - Super fast demonstration: https://youtu.be/7toMBgr-s_Q
 
 If can you, tell me what I can improve in my study
