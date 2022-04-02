@@ -4,9 +4,9 @@ This code does:
 
 - Connect on vcenter 7
 - Get piece information about cluster. 
-- Deploy vm from template windows and linux.
+- Deploy vm from template windows and Linux.
 - Set tags.
-- Create tls_private_key to access vm linux
+- Create tls_private_key to access vm Linux
 
 Through variable is possible set: 
 
